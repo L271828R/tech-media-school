@@ -27,7 +27,7 @@ BOL
 ...
 
 scraper.exe all save
->> saving results to results.csv
+\> saving results to results.csv
 
 
 suggested url to use:
