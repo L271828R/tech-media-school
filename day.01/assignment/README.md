@@ -2,7 +2,7 @@
 
 Build a command line scraper that accepts:
 
-* a country code and tells me which top 4 countries which received imports and the amount for 2017.
+* a country code (ISO CODE) and tells me which top 4 countries which received imports and the amount for 2017.
 * a parameter all, which will then take a list of countries
 * a parameter save, which will then save the contents to a csv file
 
