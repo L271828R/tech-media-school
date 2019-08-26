@@ -10,19 +10,19 @@ Build a command line scraper that accepts:
 example:
 
 scraper.exe JPN
->> USA 200B
->> CHN 100B
->> HNK 50B
->> KOR 45B
+\> USA 200B
+\> CHN 100B
+\> HNK 50B
+\> KOR 45B
 
 scraper.exe all
 AFG
->> SAU 50B
->> IRN 10B
->> KUW 5B
->> CHN 1B
+\> SAU 50B
+\> IRN 10B
+\> KUW 5B
+\> CHN 1B
 BOL
->> BRA 20B
+\> BRA 20B
 ...
 ...
 
