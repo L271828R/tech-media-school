@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime
 from country_codes import get_country_data 
+import random
 # from conf import conf
 
 
@@ -64,14 +65,16 @@ if __name__ == '__main__':
         'url': "https://wits.worldbank.org/CountryProfile/en/Country/__COUNTRY_CODE__/Year/2017/TradeFlow/Export/Partner/All/Product/Total",
         'ignore_list': ['World', 'America', 'Asia', 'Europe', 'Caribbean', 'Africa'], 'country_total': 4 } 
     print(sys.argv)
+    # arg = 'all' 
     if len(sys.argv) > 1 and sys.argv[1] == 'all':
+    # if arg == 'all':
         iso_country_data = get_country_data(conf)
-        for item in iso_country_data:
-            print(item['country_name'], item['iso_code'])
+        for item in random.choices(iso_country_data, k=4):
+            print(item['country_name'], item['iso_code'], 'export partner')
             report(conf, item['iso_code'])
     elif len(sys.argv) > 1:
         iso_code = sys.argv[1]
-        print('iso_code=', iso_code)
+        print('iso_code=', iso_code, 'export partner')
         report(conf, iso_code)
 
     

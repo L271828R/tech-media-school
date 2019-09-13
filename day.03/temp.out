@@ -1,0 +1,140 @@
+hello tariff gdp
+{'name': 'Albania', 'iso_code': 'ALB', 'tarif': '0.85', 'gdp': '4532.889198'}
+{'name': 'United Arab Emirates', 'iso_code': 'ARE', 'tarif': '4.75', 'gdp': '40325.382'}
+{'name': 'Argentina', 'iso_code': 'ARG', 'tarif': '7.93', 'gdp': '14591.86338'}
+{'name': 'Armenia', 'iso_code': 'ARM', 'tarif': '2.22', 'gdp': '3914.501268'}
+{'name': 'Antigua and Barbuda', 'iso_code': 'ATG', 'tarif': '12.72', 'gdp': '15824.66781'}
+{'name': 'Australia', 'iso_code': 'AUS', 'tarif': '0.89', 'gdp': '54093.60219'}
+{'name': 'Austria', 'iso_code': 'AUT', 'tarif': '1.79', 'gdp': '47380.82964'}
+{'name': 'Belgium', 'iso_code': 'BEL', 'tarif': '1.79', 'gdp': '43507.2382'}
+{'name': 'Benin', 'iso_code': 'BEN', 'tarif': '17.84', 'gdp': '827.4298101'}
+{'name': 'Burkina Faso', 'iso_code': 'BFA', 'tarif': '9.08', 'gdp': '642.0404265'}
+{'name': 'Bulgaria', 'iso_code': 'BGR', 'tarif': '1.79', 'gdp': '8228.01157'}
+{'name': 'Bahrain', 'iso_code': 'BHR', 'tarif': '7.83', 'gdp': '23715.48275'}
+{'name': 'Bosnia and Herzegovina', 'iso_code': 'BIH', 'tarif': '2.53', 'gdp': '5394.59122'}
+{'name': 'Belarus', 'iso_code': 'BLR', 'tarif': '1.51', 'gdp': '5761.74712'}
+{'name': 'Belize', 'iso_code': 'BLZ', 'tarif': '10.39', 'gdp': '4956.808039'}
+{'name': 'Bolivia', 'iso_code': 'BOL', 'tarif': '6.1', 'gdp': '3351.124053'}
+{'name': 'Brazil', 'iso_code': 'BRA', 'tarif': '8.59', 'gdp': '9880.946543'}
+{'name': 'Brunei Darussalam', 'iso_code': 'BRN', 'tarif': '0.03', 'gdp': '28572.10942'}
+{'name': 'Botswana', 'iso_code': 'BWA', 'tarif': '1.12', 'gdp': '7893.675933'}
+{'name': 'Central African Republic', 'iso_code': 'CAF', 'tarif': '16.44', 'gdp': '471.6032278'}
+{'name': 'Canada', 'iso_code': 'CAN', 'tarif': '1.52', 'gdp': '45069.92725'}
+{'name': 'Switzerland', 'iso_code': 'CHE', 'tarif': '1.68', 'gdp': '80333.44494'}
+{'name': 'Chile', 'iso_code': 'CHL', 'tarif': '0.49', 'gdp': '15037.35011'}
+{'name': 'China', 'iso_code': 'CHN', 'tarif': '3.83', 'gdp': '8759.041578'}
+{'name': "Cote d'Ivoire", 'iso_code': 'CIV', 'tarif': '10.28', 'gdp': '1557.182948'}
+{'name': 'Colombia', 'iso_code': 'COL', 'tarif': '4.4', 'gdp': '6375.932063'}
+{'name': 'Comoros', 'iso_code': 'COM', 'tarif': '10.43', 'gdp': '1312.366174'}
+{'name': 'Cuba', 'iso_code': 'CUB', 'tarif': '7.15', 'gdp': '8541.210673'}
+{'name': 'Cyprus', 'iso_code': 'CYP', 'tarif': '1.79', 'gdp': '25760.7627'}
+{'name': 'Czech Republic', 'iso_code': 'CZE', 'tarif': '1.79', 'gdp': '20379.89604'}
+{'name': 'Germany', 'iso_code': 'DEU', 'tarif': '1.79', 'gdp': '44681.08258'}
+{'name': 'Dominica', 'iso_code': 'DMA', 'tarif': '8.3', 'gdp': '6951.303542'}
+{'name': 'Denmark', 'iso_code': 'DNK', 'tarif': '1.79', 'gdp': '57218.85196'}
+{'name': 'Dominican Republic', 'iso_code': 'DOM', 'tarif': '4.2', 'gdp': '7222.554044'}
+{'name': 'Algeria', 'iso_code': 'DZA', 'tarif': '9.38', 'gdp': '4048.285258'}
+{'name': 'East Asia & Pacific (excluding high income)', 'iso_code': 'EAP', 'tarif': '3.44', 'gdp': '7081.776379'}
+{'name': 'East Asia & Pacific', 'iso_code': 'EAS', 'tarif': '2.53', 'gdp': '10332.83226'}
+{'name': 'Europe & Central Asia (excluding high income)', 'iso_code': 'ECA', 'tarif': '3.13', 'gdp': '7979.76034'}
+{'name': 'Europe & Central Asia', 'iso_code': 'ECS', 'tarif': '2.74', 'gdp': '23512.09436'}
+{'name': 'Ecuador', 'iso_code': 'ECU', 'tarif': '7.03', 'gdp': '6213.501276'}
+{'name': 'Egypt, Arab Rep.', 'iso_code': 'EGY', 'tarif': '7.41', 'gdp': '2440.510173'}
+{'name': 'Spain', 'iso_code': 'ESP', 'tarif': '1.79', 'gdp': '28208.26105'}
+{'name': 'Estonia', 'iso_code': 'EST', 'tarif': '1.79', 'gdp': '20200.37559'}
+{'name': 'European Union', 'iso_code': 'EUU', 'tarif': '1.79', 'gdp': '33864.16606'}
+{'name': 'Finland', 'iso_code': 'FIN', 'tarif': '1.79', 'gdp': '45804.65421'}
+{'name': 'Fiji', 'iso_code': 'FJI', 'tarif': '16.05', 'gdp': '6006.360622'}
+{'name': 'France', 'iso_code': 'FRA', 'tarif': '1.79', 'gdp': '38679.12715'}
+{'name': 'United Kingdom', 'iso_code': 'GBR', 'tarif': '1.79', 'gdp': '39932.06029'}
+{'name': 'Ghana', 'iso_code': 'GHA', 'tarif': '10.61', 'gdp': '2025.885857'}
+{'name': 'Guinea', 'iso_code': 'GIN', 'tarif': '12.25', 'gdp': '821.6514609'}
+{'name': 'Guinea-Bissau', 'iso_code': 'GNB', 'tarif': '15.5', 'gdp': '736.7255662'}
+{'name': 'Greece', 'iso_code': 'GRC', 'tarif': '1.79', 'gdp': '18883.46007'}
+{'name': 'Guyana', 'iso_code': 'GUY', 'tarif': '6.61', 'gdp': '4586.054572'}
+{'name': 'High income', 'iso_code': 'HIC', 'tarif': '2.02', 'gdp': '42346.17325'}
+{'name': 'Hong Kong SAR, China', 'iso_code': 'HKG', 'tarif': '0', 'gdp': '46220.50455'}
+{'name': 'Hungary', 'iso_code': 'HUN', 'tarif': '1.79', 'gdp': '14278.8745'}
+{'name': 'Indonesia', 'iso_code': 'IDN', 'tarif': '2.06', 'gdp': '3836.913814'}
+{'name': 'India', 'iso_code': 'IND', 'tarif': '5.78', 'gdp': '1981.499045'}
+{'name': 'Ireland', 'iso_code': 'IRL', 'tarif': '1.79', 'gdp': '68941.80665'}
+{'name': 'Iceland', 'iso_code': 'ISL', 'tarif': '1.57', 'gdp': '71314.7742'}
+{'name': 'Israel', 'iso_code': 'ISR', 'tarif': '1.85', 'gdp': '40543.58417'}
+{'name': 'Italy', 'iso_code': 'ITA', 'tarif': '1.79', 'gdp': '32155.20587'}
+{'name': 'Jordan', 'iso_code': 'JOR', 'tarif': '4.41', 'gdp': '4168.641604'}
+{'name': 'Japan', 'iso_code': 'JPN', 'tarif': '2.51', 'gdp': '38331.9794'}
+{'name': 'Kazakhstan', 'iso_code': 'KAZ', 'tarif': '2.39', 'gdp': '9030.318806'}
+{'name': 'Kyrgyz Republic', 'iso_code': 'KGZ', 'tarif': '2.93', 'gdp': '1242.769643'}
+{'name': 'St. Kitts and Nevis', 'iso_code': 'KNA', 'tarif': '21.08', 'gdp': '19060.57072'}
+{'name': 'Korea, Rep.', 'iso_code': 'KOR', 'tarif': '5.05', 'gdp': '29742.83886'}
+{'name': 'Kuwait', 'iso_code': 'KWT', 'tarif': '4.34', 'gdp': '29474.54143'}
+{'name': 'Latin America & Caribbean (excluding high income)', 'iso_code': 'LAC', 'tarif': '3.5', 'gdp': '8959.802025'}
+{'name': 'Lao PDR', 'iso_code': 'LAO', 'tarif': '1.48', 'gdp': '2423.846203'}
+{'name': 'Lebanon', 'iso_code': 'LBN', 'tarif': '3.76', 'gdp': '7838.343385'}
+{'name': 'Latin America & Caribbean', 'iso_code': 'LCN', 'tarif': '3.52', 'gdp': '9397.620709'}
+{'name': 'Low income', 'iso_code': 'LIC', 'tarif': '9.79', 'gdp': '766.5172164'}
+{'name': 'Sri Lanka', 'iso_code': 'LKA', 'tarif': '8.72', 'gdp': '4104.630983'}
+{'name': 'Low & middle income', 'iso_code': 'LMY', 'tarif': '4.28', 'gdp': '4743.063862'}
+{'name': 'Lesotho', 'iso_code': 'LSO', 'tarif': '1.43', 'gdp': '1232.786919'}
+{'name': 'Lithuania', 'iso_code': 'LTU', 'tarif': '1.79', 'gdp': '16809.64826'}
+{'name': 'Luxembourg', 'iso_code': 'LUX', 'tarif': '1.79', 'gdp': '104498.7387'}
+{'name': 'Latvia', 'iso_code': 'LVA', 'tarif': '1.79', 'gdp': '15684.55852'}
+{'name': 'Macao SAR, China', 'iso_code': 'MAC', 'tarif': '0', 'gdp': '81208.88207'}
+{'name': 'Morocco', 'iso_code': 'MAR', 'tarif': '3.19', 'gdp': '3036.171062'}
+{'name': 'Madagascar', 'iso_code': 'MDG', 'tarif': '5.74', 'gdp': '448.4007965'}
+{'name': 'Maldives', 'iso_code': 'MDV', 'tarif': '12.04', 'gdp': '9801.624542'}
+{'name': 'Middle East & North Africa', 'iso_code': 'MEA', 'tarif': '4.86', 'gdp': '7422.027903'}
+{'name': 'Mexico', 'iso_code': 'MEX', 'tarif': '1.24', 'gdp': '9281.101483'}
+{'name': 'North Macedonia', 'iso_code': 'MKD', 'tarif': '1.92', 'gdp': '5417.642019'}
+{'name': 'Mali', 'iso_code': 'MLI', 'tarif': '10.04', 'gdp': '828.6132202'}
+{'name': 'Malta', 'iso_code': 'MLT', 'tarif': '1.79', 'gdp': '27241.09064'}
+{'name': 'Middle East & North Africa (excluding high income)', 'iso_code': 'MNA', 'tarif': '6.66', 'gdp': '3817.686174'}
+{'name': 'Montenegro', 'iso_code': 'MNE', 'tarif': '3.07', 'gdp': '7784.06529'}
+{'name': 'Mongolia', 'iso_code': 'MNG', 'tarif': '5.52', 'gdp': '3671.948419'}
+{'name': 'Mauritius', 'iso_code': 'MUS', 'tarif': '0.87', 'gdp': '10484.90836'}
+{'name': 'Namibia', 'iso_code': 'NAM', 'tarif': '0.91', 'gdp': '5646.456007'}
+{'name': 'Niger', 'iso_code': 'NER', 'tarif': '11.92', 'gdp': '375.8694897'}
+{'name': 'Nicaragua', 'iso_code': 'NIC', 'tarif': '2.33', 'gdp': '2168.19124'}
+{'name': 'Netherlands', 'iso_code': 'NLD', 'tarif': '1.79', 'gdp': '48482.76621'}
+{'name': 'Norway', 'iso_code': 'NOR', 'tarif': '3.13', 'gdp': '75704.2487'}
+{'name': 'New Zealand', 'iso_code': 'NZL', 'tarif': '1.35', 'gdp': '42260.12518'}
+{'name': 'Oman', 'iso_code': 'OMN', 'tarif': '1.73', 'gdp': '15170.35174'}
+{'name': 'Peru', 'iso_code': 'PER', 'tarif': '0.8', 'gdp': '6700.81138'}
+{'name': 'Philippines', 'iso_code': 'PHL', 'tarif': '1.66', 'gdp': '2981.934151'}
+{'name': 'Palau', 'iso_code': 'PLW', 'tarif': '29.88', 'gdp': '16274.90454'}
+{'name': 'Poland', 'iso_code': 'POL', 'tarif': '1.79', 'gdp': '13861.05156'}
+{'name': 'Portugal', 'iso_code': 'PRT', 'tarif': '1.79', 'gdp': '21291.43088'}
+{'name': 'Paraguay', 'iso_code': 'PRY', 'tarif': '4.8', 'gdp': '5680.580768'}
+{'name': 'Qatar', 'iso_code': 'QAT', 'tarif': '4.22', 'gdp': '61264.39648'}
+{'name': 'Romania', 'iso_code': 'ROU', 'tarif': '1.79', 'gdp': '10792.95628'}
+{'name': 'Russian Federation', 'iso_code': 'RUS', 'tarif': '3.61', 'gdp': '10750.58712'}
+{'name': 'South Asia', 'iso_code': 'SAS', 'tarif': '5.93', 'gdp': '1867.272248'}
+{'name': 'Saudi Arabia', 'iso_code': 'SAU', 'tarif': '4.85', 'gdp': '20803.74257'}
+{'name': 'Sudan', 'iso_code': 'SDN', 'tarif': '14.01', 'gdp': '3015.02443'}
+{'name': 'Senegal', 'iso_code': 'SEN', 'tarif': '12.3', 'gdp': '1367.218948'}
+{'name': 'Singapore', 'iso_code': 'SGP', 'tarif': '0.07', 'gdp': '60297.79378'}
+{'name': 'Solomon Islands', 'iso_code': 'SLB', 'tarif': '18.49', 'gdp': '2077.126038'}
+{'name': 'El Salvador', 'iso_code': 'SLV', 'tarif': '2.07', 'gdp': '3902.237622'}
+{'name': 'Sub-Saharan Africa (excluding high income)', 'iso_code': 'SSA', 'tarif': '5.67', 'gdp': '1597.682727'}
+{'name': 'Sub-Saharan Africa', 'iso_code': 'SSF', 'tarif': '5.67', 'gdp': '1598.968095'}
+{'name': 'Slovak Republic', 'iso_code': 'SVK', 'tarif': '1.79', 'gdp': '17579.2594'}
+{'name': 'Slovenia', 'iso_code': 'SVN', 'tarif': '1.79', 'gdp': '23449.57452'}
+{'name': 'Sweden', 'iso_code': 'SWE', 'tarif': '1.79', 'gdp': '53253.47664'}
+{'name': 'Eswatini', 'iso_code': 'SWZ', 'tarif': '0.66', 'gdp': '3941.900457'}
+{'name': 'Seychelles', 'iso_code': 'SYC', 'tarif': '3.7', 'gdp': '15683.6565'}
+{'name': 'Togo', 'iso_code': 'TGO', 'tarif': '13.43', 'gdp': '619.066371'}
+{'name': 'Tajikistan', 'iso_code': 'TJK', 'tarif': '4.98', 'gdp': '806.0415731'}
+{'name': 'Tonga', 'iso_code': 'TON', 'tarif': '5.53', 'gdp': '4217.476507'}
+{'name': 'Turkey', 'iso_code': 'TUR', 'tarif': '3.45', 'gdp': '10499.74557'}
+{'name': 'Tuvalu', 'iso_code': 'TUV', 'tarif': '2.43', 'gdp': '3572.608367'}
+{'name': 'Ukraine', 'iso_code': 'UKR', 'tarif': '1.9', 'gdp': '2640.675677'}
+{'name': 'Upper middle income', 'iso_code': 'UMC', 'tarif': '3.7', 'gdp': '8663.27389'}
+{'name': 'Uruguay', 'iso_code': 'URY', 'tarif': '6.3', 'gdp': '16437.24487'}
+{'name': 'United States', 'iso_code': 'USA', 'tarif': '1.66', 'gdp': '59927.92983'}
+{'name': 'St. Vincent and the Grenadines', 'iso_code': 'VCT', 'tarif': '8.93', 'gdp': '7149.630866'}
+{'name': 'Vietnam', 'iso_code': 'VNM', 'tarif': '2.69', 'gdp': '2365.621666'}
+{'name': 'Vanuatu', 'iso_code': 'VUT', 'tarif': '8.34', 'gdp': '2976.107116'}
+{'name': 'World', 'iso_code': 'WLD', 'tarif': '2.59', 'gdp': '10768.96336'}
+{'name': 'Samoa', 'iso_code': 'WSM', 'tarif': '10.19', 'gdp': '4307.805464'}
+{'name': 'Yemen, Rep.', 'iso_code': 'YEM', 'tarif': '5.03', 'gdp': '963.494721'}
+{'name': 'South Africa', 'iso_code': 'ZAF', 'tarif': '4.61', 'gdp': '6120.5068'}

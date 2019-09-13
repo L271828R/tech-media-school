@@ -1,0 +1,94 @@
+Script started on Fri Aug 30 02:52:35 2019
+[?1034hbash-3.2$ scripts
+[?1034hbash-3.2$ cd straddle_finder/
+bash-3.2$ ls
+__pycache__	chromedriver	conf.py		date_helper.py	sf.py		tickers.py
+bash-3.2$ pyton [K[K[Khon sf.py reverse
+Connected successfully!!!
+Straddle Finder Selenium
+found it reverse
+1 of 63, currently vxx
+saved 10 records
+2 of 63, currently lk
+saved 9 records
+3 of 63, currently roku
+saved 9 records
+4 of 63, currently cop
+saved 10 records
+5 of 63, currently ostk
+saved 9 records
+6 of 63, currently intu
+saved 8 records
+7 of 63, currently f
+saved 10 records
+8 of 63, currently yelp
+saved 8 records
+9 of 63, currently zbra
+saved 9 records
+10 of 63, currently cldr
+saved 9 records
+11 of 63, currently ayx
+saved 8 records
+12 of 63, currently goos
+saved 5 records
+13 of 63, currently fvrr
+Unexpected error: <class 'selenium.common.exceptions.NoSuchElementException'>
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"select"}
+  (Session info: headless chrome=76.0.3809.132)
+
+14 of 63, currently symc
+saved 10 records
+15 of 63, currently fico
+saved 7 records
+16 of 63, currently tru
+saved 5 records
+17 of 63, currently soxs
+saved 5 records
+18 of 63, currently soxl
+saved 7 records
+19 of 63, currently amat
+saved 10 records
+20 of 63, currently wmt
+saved 10 records
+21 of 63, currently baba
+saved 10 records
+22 of 63, currently ehth
+saved 6 records
+23 of 63, currently see
+saved 2 records
+24 of 63, currently svmk
+saved 6 records
+25 of 63, currently mtch
+saved 10 records
+26 of 63, currently dgaz
+Unexpected error: <class 'selenium.common.exceptions.NoSuchElementException'>
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"select"}
+  (Session info: headless chrome=76.0.3809.132)
+
+27 of 63, currently ugaz
+Unexpected error: <class 'selenium.common.exceptions.NoSuchElementException'>
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"select"}
+  (Session info: headless chrome=76.0.3809.132)
+
+28 of 63, currently dust
+saved 9 records
+29 of 63, currently jnug
+saved 5 records
+30 of 63, currently splk
+Unexpected error: <class 'selenium.common.exceptions.NoSuchElementException'>
+Message: Could not locate element with visible text: September 27, 2019
+
+31 of 63, currently tgt
+Unexpected error: <class 'ValueError'>
+time data 'NBA' does not match format '%B %d, %Y'
+32 of 63, currently qcom
+Unexpected error: <class 'ValueError'>
+time data 'NBA' does not match format '%B %d, %Y'
+33 of 63, currently uber
+Unexpected error: <class 'ValueError'>
+time data 'NBA' does not match format '%B %d, %Y'
+59 of 63, currently twlo
+Unexpected error: <class 'ValueError'>
+time data 'NBA' does not match format '%B %d, %Y'
+returning straddles
+bash-3.2$ 
